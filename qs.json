@@ -1,0 +1,40 @@
+{
+  "qs" :
+    [
+      {
+        "qs" : "Office work is boring without",
+        "options" :
+          [{"name" : "Tea", "image" : "https://cdn0.iconfinder.com/data/icons/food-2-11/128/food-32-512.png"},             
+           {"name" : "Coffee", "image" : "http://icons.iconarchive.com/icons/sonya/swarm/256/Coffee-icon.png"}]
+      },           
+      {
+        "qs" : "My favourite movie genre is",
+        "options" :
+          [{"name" : "Romance", "image" : "https://cdn.icon-icons.com/icons2/564/PNG/512/Novel_icon-icons.com_54157.png"},
+           {"name" : "Thriller", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HYNENx_OcGOmggv7K_d1ZC2EmO9IFdTZxkwBL168oz2P0KSp"}]
+      },
+      {
+        "qs" : "On a lazy holiday I'd",
+        "options" : 
+          [{"name" : "Read a book", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTov473ffrU2Fkoh_vu8865OdHP3LPVrsd66Hy3ezHgjQ6c86Jp"},
+           {"name" : "Watch a movie", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQtgGc7W8npw5gpfA8m8xspb04W4sPQbSsEIaJNXr7rvcOAbYf"}]
+      },
+      {
+        "qs" : "I'd describe myself as a",
+        "options" : 
+          [{"name" : "Conservative", "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaALZYD497f8ZU0x6I3stti2jm2P1uLIcQcs94OslWNYkj8wN9"},
+          {"name" : "Liberal", "image" : "https://transparentbackground.files.wordpress.com/2013/09/003_barack_obama.jpg?w=584"}]
+      },
+      {
+        "qs" : "WC 2022 will be incomplete without",
+        "options" : 
+          [{"name" : "Ronaldo", "image" : "https://png.icons8.com/color/1600/cristiano-ronaldo.png"},
+           {"name" : "Messi", "image" : "https://png.icons8.com/color/1600/messi.png"}]
+      },
+      {
+        "qs" : "Real superhoreos are from",
+        "options" : 
+          [{"name" : "Marvel", "image" : "https://cdn.icon-icons.com/icons2/564/PNG/512/Iron_Man_icon-icons.com_54170.png"},
+           {"name" : "DC", "image" : "https://png.icons8.com/color/1600/batman.png"}]}
+    ]
+}    
